@@ -1,0 +1,40 @@
+_repo: Theaetetus_1726
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Jowett, Benjamin
+    alias: Jowett, William
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '94'
+    url: http://www.gutenberg.org/2009/agents/94
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Jowett
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: 'English translation of Plato''s dialogue concerning the nature of knowledge.
+  In this dialogue, Socrates and Theaetetus discuss three definitions of knowledge:
+  knowledge as nothing but perception, as true judgment and as true judgment with
+  an account.'
+gutenberg_bookshelf: Philosophy
+gutenberg_issued: '1999-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1726'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcsh 'Knowledge, Theory of -- Early works to 1800'
+- !lcc 'PA'
+- GITenberg
+title: Theaetetus
+url: http://www.gutenberg.org/ebooks/1726
